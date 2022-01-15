@@ -173,14 +173,14 @@ void Zadanie4()
 
         for (int i = 0; i < ileRazyPolaczyc / 2; i++) {
 
-            cout << wyraz + " " + wyraz + " ";
+            cout << wyraz ;
         }
     }
     else {
 
         for (int i = 0; i < ileRazyPolaczyc; i++) {
 
-            cout << wyraz + " ";
+            cout << wyraz;
         }
     }
 
